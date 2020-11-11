@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 
-namespace ООЗГТ_контрактники
+namespace Пож_Безопасность
 {
 	class Program
 	{
